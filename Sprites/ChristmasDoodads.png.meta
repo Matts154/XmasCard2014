@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: b45fa5144f86c2e46ad6935b96b5384b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChristmasDoodads_0
+    21300002: ChristmasDoodads_1
+    21300004: ChristmasDoodads_2
+    21300006: ChristmasDoodads_3
+    21300008: ChristmasDoodads_4
+    21300010: ChristmasDoodads_5
+    21300012: ChristmasDoodads_6
+    21300014: ChristmasDoodads_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChristmasDoodads_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 297
+        width: 517
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 74
+        height: 216
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 75
+        height: 216
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 75
+        height: 216
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 14
+        width: 74
+        height: 216
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 178
+        width: 329
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 98
+        width: 369
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChristmasDoodads_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 369
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
